@@ -1,0 +1,5 @@
+com/eventum/helloworld/service/TestService.class
+com/eventum/helloworld/aspect/SystemArchitecture.class
+com/eventum/helloworld/aspect/TestAspect.class
+com/eventum/helloworld/controller/HelloWorldController.class
+com/eventum/helloworld/configuration/AppConfig.class
